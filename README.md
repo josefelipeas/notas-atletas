@@ -10,7 +10,7 @@ A funcão recebe uma matriz de objetos contendo o nome e as notas desses atletas
 
 1. Clone o repositorio `https://github.com/josefelipeas/notas-atletas.git`
 2. Instale o ambiente de execução [node](https://nodejs.org/pt/download).
-3. Execute o seguinte comando no terminal, no diretório correspondente ao projeto.
+3. Execute o seguinte comando no terminal, no diretório correspondente ao projeto:
 ```bash
 node notas-atletas.js
 ```
